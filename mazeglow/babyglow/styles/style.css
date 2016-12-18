@@ -1,0 +1,38 @@
+html {
+  font-size: 20px; /* px means 'pixels': the base font size is now 20 pixels high  */
+  font-family: Pacifico; this should be the rest of the output you got from Google fonts
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 26px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+html {
+  background-color: #E1DEDE;
+}
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+  background-color: #DDA0DD;
+  padding: 0 20px 20px 20px;
+  border: 1px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
